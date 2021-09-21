@@ -12,15 +12,6 @@
 - ⚡ Fun fact: ...
 
 
-<!---
-<img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'/>
-<img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'/> 
-<img src='https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white'/> 
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
-<img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'/> 
-<img src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white'/> 
-<img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'/> 
-<img src='https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white'/>
-<img src='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white'/> 
-<img src='https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white'/>
---->
+### Main Technologies:
+
+<a href='#' title='HTML5'><img src='https://img.shields.io/badge/-000000?style=for-the-badge&logo=HTML5&logoColor=white'/></a> <a href='#' title='CSS3'><img src='https://img.shields.io/badge/-000000?style=for-the-badge&logo=CSS3&logoColor=white'/> <a href='#' title='Sass'><img src='https://img.shields.io/badge/-000000?style=for-the-badge&logo=Sass&logoColor=white'/> <a href='#' title='JavaScript'><img src='https://img.shields.io/badge/-000000?style=for-the-badge&logo=JavaScript&logoColor=white'/> <a href='#' title='TypesScript'><img src='https://img.shields.io/badge/-000000?style=for-the-badge&logo=TypeScript&logoColor=white'/> <a href='#' title='React.js'><img src='https://img.shields.io/badge/-000000?style=for-the-badge&logo=React&logoColor=white'/> <a href='#' title='PostGreSQL'><img src='https://img.shields.io/badge/-000000?style=for-the-badge&logo=PostgreSQL&logoColor=white'/> <a href='#' title='Express.js'><img src='https://img.shields.io/badge/-000000?style=for-the-badge&logo=Express&logoColor=white'/> <a href='#' title='Node.js'><img src='https://img.shields.io/badge/-000000?style=for-the-badge&logo=Node.js&logoColor=white'/>
