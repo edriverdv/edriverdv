@@ -1,5 +1,5 @@
 
-[![Introducing](https://github.com/edriverdv/edriverdv/raw/master/assets/banner.png)]
+[![Introducing](https://github.com/edriverdv/edriverdv/blob/main/assets/banner.png)]
 
 - 🔭 I’m currently working on, find a job!!
 - 🌱 I’m currently still learning!!
