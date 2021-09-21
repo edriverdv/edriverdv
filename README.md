@@ -1,5 +1,9 @@
-
-![Introducing](https://github.com/edriverdv/edriverdv/blob/main/assets/banner.png), https://github.com/edriverdv
+![](https://github.com/edriverdv/edriverdv/blob/main/assets/banner.png)
+<!--
+[![Introducing](https://github.com/edriverdv/edriverdv/blob/main/assets/banner.png) https://github.com/edriverdv]
+--->
+<br />
+<br />
 
 - 🔭 I’m currently working on, find a job!!
 - 🌱 I’m currently still learning!!
