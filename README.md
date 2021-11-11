@@ -5,14 +5,15 @@
 <br />
 <br />
 
-- 🔭 I’m currently working on, find a job!!
-- 🌱 I’m currently still learning!!
-- 👯 I’m looking to collaborate on projects!!
-- 🤔 I’m looking for help with...
-- 💬 Ask me about ...
-- 📫 How to reach me: edriver.ddev@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ 🔭 I’m currently working on, find a job!!
+ 
+ 🌱 I’m currently still learning!!
+ 
+ 👯 I’m looking to collaborate on projects!!
+ 
+ 🤔 I’m looking for help with new partners on new projects, to be involved in a team!
+ 
+ 📫 How to reach me: edriver.ddev@gmail.com
 
 
 ### Main Technologies:
