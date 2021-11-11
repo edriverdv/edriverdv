@@ -1,6 +1,6 @@
 
 
-[![Introducing](https://github.com/edriverdv/edriverdv/blob/main/assets/banner.png) https://github.com/edriverdv]
+![Introducing](https://github.com/edriverdv/edriverdv/blob/main/assets/banner.png) https://github.com/edriverdv
 
 <br />
 <br />
